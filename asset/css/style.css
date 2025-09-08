@@ -1,16 +1,14 @@
-.logo {
-  color: gray;
-}
-.Logo span {
-  color: deepskyblue;
-}
-.sfondo {
-  background: url("logo-the-booleaner.png") no-repeat center;
-  width: 200px;   
-  height: 60px;   
+header {
+    background-image: url(./pattern.png);
+    height: 230px;
+    background-color: #4ea0ff;
+    background-repeat: repeat;
+    background-size: 300px;
 }
 .logo {
-    width: 150px;
+  height: 40px;
+  margin-top: 180px;
+  margin-left: 20px;
 }
 body {
     margin: 0 auto;
@@ -41,7 +39,7 @@ td {
 .monitor1 {
     width: 400px;
     height: 400px;
-    background-image: url(../);
+    background-image: url(./monitor.jpg);
 }
 .Interessarti img {
     width: 250px;
