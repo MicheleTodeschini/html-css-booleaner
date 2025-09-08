@@ -1,7 +1,48 @@
-header .logo {
+.logo {
+  color: gray;
+}
+.Logo span {
+  color: deepskyblue;
+}
+.sfondo {
+  background: url("logo-the-booleaner.png") no-repeat center;
+  width: 200px;   
+  height: 60px;   
+}
+.logo {
     width: 150px;
+}
+body {
+    margin: 0 auto;
 }
 
 .author span {
     color: lightblue;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.highlight-row {
+    background: lightblue;
+}
+
+.highlight-headrow {
+    background: lightskyblue;
+}
+.monitor1 {
+    width: 400px;
+    height: 400px;
+    background-image: url(../);
+}
+.Interessarti img {
+    width: 250px;
 }
