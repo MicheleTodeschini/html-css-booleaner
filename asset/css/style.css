@@ -4,7 +4,7 @@ header {
     background-color: #4ea0ff;
     background-repeat: repeat;
     background-size: 350px;
-    margin-left: 0px;
+    margin: -25px;
 }
 #logo {
   height: 40px;
