@@ -3,15 +3,17 @@ header {
     height: 230px;
     background-color: #4ea0ff;
     background-repeat: repeat;
-    background-size: 300px;
+    background-size: 350px;
+    margin-left: 0px;
 }
-.logo {
+#logo {
   height: 40px;
   margin-top: 180px;
   margin-left: 20px;
+
 }
 body {
-    margin: 0 auto;
+    margin-left: 20px;
 }
 
 .author span {
